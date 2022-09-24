@@ -1,0 +1,14 @@
+{
+  "name": "myexpressapp",
+  "version": "1.0.0",
+  "description": "My express app",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Vivek",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}

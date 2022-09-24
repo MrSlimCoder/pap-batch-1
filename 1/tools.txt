@@ -1,0 +1,5 @@
+TOOLS:
+VsCode (Visual Studio Code) - IDE
+Node.js Software
+MongoDB (Compase, Tool)
+Postman
