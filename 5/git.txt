@@ -1,0 +1,47 @@
+Download Git: https://git-scm.com/downloads
+
+Software Industry (Programming):
+CLI: Command Line Interface (We use command, i.e, MsDOS, CMD, Terminal, Git)
+GUI: Graphical User Interface (We use Graphics, i.e Slack, Windows, GitHub)
+
+
+Git v/s GitHub
+GIT: Version controlling tool (CLI)
+GITHUB: Version controlling platform/cloud (GUI)
+
+
+Linux Repo GitHub: https://github.com/torvalds/linux
+
+Linux Repo Git: https://git.kernel.org/
+
+Email System: Version Controlling (Code)
+
+Open Source Project: Free (Audience) - Non Profit
+
+Email System - Version Controlling (Git - Automate)
+
+Email Sample 
+ID - UNIQUE GIT
+Email - User
+Name - User
+Changes (Files) - Code (edited) 
+
+
+Git - Local (VC)
+GitHub - Remote (VC)
+
+.gitignore - Ignore files/folders
+
+COMMANDS:
+git init     ----   Initialization git folder
+git add .    ----   Staged changes
+git commit -m "first commit"      ----- commit (patch)
+git branch   ----   For checking branch
+git log      ---    Commit/Patch Details 
+git remote -v    --- Check remote url
+git remote add origin https://github.com/MrSlimCoder/pap-batch-1.git     ---- Add remote origin (github) for a local project with git
+git push origin master/main --- Push master/main branch to remote
+
+
+GitHub Profile: https://github.com/MrSlimCoder
+
