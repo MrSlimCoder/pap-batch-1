@@ -1,0 +1,21 @@
+Github - Version Controlling Platform / Portfolio
+Pull Request (PR) - Patch send to owner of repository
+Repository: cloud of code
+Issues: Bug finding and bug fixing
+Marketplace: paid/free apps integration within github
+Explore: Trending repositories
+gist: use for creating code sample (https://gist.github.com/)
+organization: group of people working together for a cause
+project: higher level repositories
+Repositories: your repo + contributed/forked repo
+Fork: copy of others repo within your profile
+Star: your favorite repository
+Watch: looking into repository
+https://github.com/MrSlimCoder/MrSlimCoder (Readme.md - overview)
+Pinned: pin projects (famous projects - good portfolio)
+Code Review (%): Review of others codebase (PR)
+Issues (%): Creation of issues within others repository
+PR (%): sending of pull request (collection of patch/commit)
+Commits (%): commits/patch within merged pull request
+git checkout -b BRANCH_NAME   --- For creating a new branch from master to changes
+git checkout BRANCH_NAME      --- For changing the branch from master to changes
