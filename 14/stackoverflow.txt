@@ -1,0 +1,18 @@
+Signup - GitHub, Gmail etc 
+Profile:
+- User Details 
+- Stats (reputation, reached, answers, questions)
+- Communities
+- About
+- Badges
+- Top tags
+- Posts stats
+Activity: 
+- Summary
+- Badges
+- Impact (people reached, posts edited, helpful flags, votes cast)
+- Answers
+- Questions
+- Tags 
+- Reputations
+- Badges
