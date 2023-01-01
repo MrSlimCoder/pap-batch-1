@@ -1,9 +1,9 @@
 const db = require('../model');
 
 exports.get = async (req, res) => {
-    const body = req.body;
+    const query = req.query;
     try {
-       const user = await db.user.findOne(body);
+       const user = await db.user.findOne(query);
        if(!user || user?.delete) {
         res.status(400).json({
             success: false,

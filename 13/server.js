@@ -8,6 +8,7 @@ const config = require('./config'); //configurations
 const route = require('./route'); //routes
 
 // MIDDLEWARE
+app.use(middleware.cors);
 app.use(middleware.bodyParser);
 app.use(route.user);
 
